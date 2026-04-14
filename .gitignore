@@ -1,0 +1,9 @@
+node_modules
+dist
+.env
+.env.local
+.env.*
+!.env.example
+.DS_Store
+screening-*.csv
+2. Technical Screener v2.2.pdf
